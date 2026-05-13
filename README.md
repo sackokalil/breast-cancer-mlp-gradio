@@ -256,7 +256,7 @@ This launches an interactive browser-based interface for training and prediction
 Kalil Sacko
 
 Master Student in Computer Science  
-Hochschule Bochum
+University of applied Sciences Bochum(Hochschule Bochum)
 
 ---
 
