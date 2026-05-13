@@ -1,0 +1,15 @@
+name: challenge2
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - python=3.12
+  - scikit-learn
+  - keras
+  - pandas
+  - tensorflow
+  - gradio
+  - brotli
+  - brotli-python
+prefix: C:\Users\kalil\anaconda3\envs\challenge2
